@@ -1,0 +1,8 @@
+A:\Archivos\Cristian\Repositorios de github\Juego de la viborita\ViboritaJuego\bin\Debug\ViboritaJuego.exe.config
+A:\Archivos\Cristian\Repositorios de github\Juego de la viborita\ViboritaJuego\bin\Debug\ViboritaJuego.exe
+A:\Archivos\Cristian\Repositorios de github\Juego de la viborita\ViboritaJuego\bin\Debug\ViboritaJuego.pdb
+A:\Archivos\Cristian\Repositorios de github\Juego de la viborita\ViboritaJuego\obj\Debug\ViboritaJuego.csproj.AssemblyReference.cache
+A:\Archivos\Cristian\Repositorios de github\Juego de la viborita\ViboritaJuego\obj\Debug\ViboritaJuego.csproj.SuggestedBindingRedirects.cache
+A:\Archivos\Cristian\Repositorios de github\Juego de la viborita\ViboritaJuego\obj\Debug\ViboritaJuego.csproj.CoreCompileInputs.cache
+A:\Archivos\Cristian\Repositorios de github\Juego de la viborita\ViboritaJuego\obj\Debug\ViboritaJuego.exe
+A:\Archivos\Cristian\Repositorios de github\Juego de la viborita\ViboritaJuego\obj\Debug\ViboritaJuego.pdb
